@@ -16,7 +16,7 @@
 
 <p align="left">
   I'm a Salesforce expert from Brazil, currently living in Lisbon.<br><br>
-  - 🔭 I’m working as a lead Developer in a major Bank at Israel<br>
+  - 🔭 I’m working as a lead Developer at a major Bank in Israel<br>
   - 🏛️ I'm working as an Architect for <a href="https://github.com/XCL-Consulting">@XCL-Consulting</a><br>
   - 📖 I'm helping interns in their career<br>
   - ⚙️ I'm building and mantaining Salesforce CI/CD pipelines<br>
