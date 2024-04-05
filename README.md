@@ -53,7 +53,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats-tan-nu-46.vercel.app/api?username=gabrielcf55&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&locale=en&hide_border=false&order=1&hide=stars,issues" height="250" alt="stats graph"  />
+  <img src="https://github-readme-stats-tan-nu-46.vercel.app/api?username=gabrielcf55&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&locale=en&hide_border=false&order=1&hide=stars,issues" height="180" alt="stats graph"  />
   <!--<img src="https://streak-stats.demolab.com?user=gabrielcf55&locale=en&mode=weekly&theme=default&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
