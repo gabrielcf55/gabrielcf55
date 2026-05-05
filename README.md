@@ -103,12 +103,12 @@ The bigger bet is that shipping software is becoming as much about **supervising
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=gabrielcf55&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&card_width=440" alt="Gabriel's GitHub stats" />
+<img height="180" src="https://github-readme-stats-tan-nu-46.vercel.app/api?username=gabrielcf55&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&card_width=440" alt="Gabriel's GitHub stats" />
 <img height="180" src="https://streak-stats.demolab.com?user=gabrielcf55&theme=tokyonight&hide_border=true" alt="Gabriel's streak" />
 
 <br/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcf55&layout=compact&theme=tokyonight&hide_border=true&card_width=440&langs_count=8" alt="Top languages" />
+<img height="180" src="https://github-readme-stats-tan-nu-46.vercel.app/api/top-langs/?username=gabrielcf55&layout=compact&theme=tokyonight&hide_border=true&card_width=440&langs_count=8" alt="Top languages" />
 
 <br/><br/>
 
